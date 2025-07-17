@@ -1,6 +1,6 @@
 🎮 Just Launched a Fun Mini Game Project! 🚀
 
-I'm excited to share my latest project – a fully functional [Game Name: e.g., Rock-Paper-Scissors / Tic Tac Toe / Guess the Number] built using HTML, CSS, and JavaScript!
+I'm excited to share my latest project – a fully functionalRock-Paper-Scissors  built using HTML, CSS, and JavaScript!
 
 ✅ Responsive UI
 ✅ Smooth gameplay
